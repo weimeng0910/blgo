@@ -2,4 +2,4 @@
 
 ### webpack5
 _________________________________________________________________________________________________________
-1.[从零配制webpack5+typescript+React](https://github.com/weimeng0910/blog/issues/1#issue-1322002753)(29.07.2022)
+1.[从零配制webpack5+typescript+React](https://github.com/weimeng0910/blog/issues/2)(29.07.2022)
