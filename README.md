@@ -2,4 +2,4 @@
 
 ### webpack5
 _________________________________________________________________________________________________________
-1.<a src="https://github.com/weimeng0910/blog/issues/1">从零配制webpack5+React+tepyscript</a>
+1.https://github.com/weimeng0910/blog/issues/1#issue-1322002753
